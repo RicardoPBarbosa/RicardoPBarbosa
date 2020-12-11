@@ -5,7 +5,7 @@ I develop full-stack web solutions and mobile apps.
 
 💻 I'm currently working full-time at <a href="https://kuantokusta.pt">KuantoKusta</a>.
 
-🌱 I’m currently learning: **Advanced Next.js, Flutter**
+🌱 I’m currently improving my skills on: **Next.js, Adonis.js**
 
 💙 Interests: travel ✈️ , games 👾 , movies 🎬 , friends 😃
 
