@@ -3,9 +3,9 @@
 I love to solve people's problems.
 I develop full-stack web solutions and mobile apps.
 
-💻  I'm currently working full-time at <a href="https://kuantokusta.pt">KuantoKusta</a>.
+💻  &nbsp; I'm currently working full-time at <a href="https://kuantokusta.pt">KuantoKusta</a>.
 
-🌱  I’m currently improving my skills on: **Next.js, Adonis.js**
+🌱 &nbsp; I’m currently improving my skills on: **Next.js, Adonis.js**
 
 💙 &nbsp; Interests: travel ✈️ , games 👾 , movies 🎬 , running 👟 , friends 😃
 
