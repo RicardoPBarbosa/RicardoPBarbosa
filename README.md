@@ -7,19 +7,19 @@ I develop full-stack web solutions and mobile apps.
 
 🌱  I’m currently improving my skills on: **Next.js, Adonis.js**
 
-💙  Interests: travel ✈️ , games 👾 , movies 🎬 , running 👟 , friends 😃
+💙 &nbsp; Interests: travel ✈️ , games 👾 , movies 🎬 , running 👟 , friends 😃
 
 ### Find me at
 
 <br/>
 
 <p align="left">
-  👉 
+  👉 &nbsp;
   <a href="https://www.linkedin.com/in/ricardopbarbosa" target="_blank">
     Linkedin
   </a>
   <br/>
-  👉  
+  👉  &nbsp;
   <a href="https://twitter.com/Ricard0Barbosa" target="_blank">
     Twitter
   </a>
@@ -33,7 +33,7 @@ I develop full-stack web solutions and mobile apps.
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoPBarbosa&layout=compact&theme=dracula&hide=html,css"
     />
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
