@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, my name is Ricardo
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> my name is Ricardo
 #### I am a software engineer from Portugal
 I love to solve people's problems.
 I develop full-stack web solutions and mobile apps.
@@ -28,12 +28,6 @@ I develop full-stack web solutions and mobile apps.
 <br/>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoPBarbosa&layout=compact&theme=dracula&hide=html,css"
-    />
-  </a>&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
