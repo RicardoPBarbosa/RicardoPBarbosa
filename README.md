@@ -14,14 +14,14 @@ I develop full-stack web solutions and mobile apps.
 <br/>
 
 <p align="left">
+  👉  &nbsp;
+  <a href="https://ricardopbarbosa.com" target="_blank">
+    My website
+  </a>
+  <br/>
   👉 &nbsp;
   <a href="https://www.linkedin.com/in/ricardopbarbosa" target="_blank">
     Linkedin
-  </a>
-  <br/>
-  👉  &nbsp;
-  <a href="https://twitter.com/Ricard0Barbosa" target="_blank">
-    Twitter
   </a>
 </p>
 
