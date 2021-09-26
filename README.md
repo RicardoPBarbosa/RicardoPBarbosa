@@ -3,9 +3,11 @@
 I love to solve people's problems.
 I develop full-stack web solutions and mobile apps.
 
-💻  &nbsp; I'm currently working full-time at <a href="https://kuantokusta.pt">KuantoKusta</a>.
+💻  &nbsp; I'm currently working at <a href="https://5mins.ai/">5Mins.ai</a>.
 
-🌱 &nbsp; I’m currently improving my skills on: **Next.js, Node.js**
+💼  &nbsp; You can hire my services through my partnership -> <a href="https://github.com/opodevs">opodevs</a>
+
+🌱 &nbsp; I’m currently improving my skills on: **React (JS, Native), Node.js**
 
 💙 &nbsp; Interests: travel ✈️ , reading 📖 , movies 🎬 , running 👟 , personal development 📈
 
@@ -22,16 +24,5 @@ I develop full-stack web solutions and mobile apps.
   👉 &nbsp;
   <a href="https://www.linkedin.com/in/ricardopbarbosa" target="_blank">
     Linkedin
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=RicardoPBarbosa&show_icons=true&hide=issues,contribs&theme=dracula"
-    />
   </a>
 </p>
