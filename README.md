@@ -13,8 +13,6 @@ I develop full-stack web solutions and mobile apps.
 
 ### Find me at
 
-<br/>
-
 <p align="left">
   👉  &nbsp;
   <a href="https://ricardopbarbosa.com" target="_blank">
@@ -26,3 +24,6 @@ I develop full-stack web solutions and mobile apps.
     Linkedin
   </a>
 </p>
+
+<hr />
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/RicardoPBarbosa/RicardoPBarbosa/blob/master/devcard.svg" width="400" alt="Ricardo Barbosa's Dev Card"/></a>
