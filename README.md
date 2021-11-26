@@ -1,6 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> my name is Ricardo
 #### I am a software engineer from Portugal
 I love to solve people's problems.
+
 I develop full-stack web solutions and mobile apps.
 
 💻  &nbsp; I'm currently working at <a href="https://5mins.ai/">5Mins.ai</a>.
