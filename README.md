@@ -10,7 +10,7 @@ I develop full-stack web solutions and mobile apps.
 
 🌱 &nbsp; I’m currently improving my skills on: **React (JS, Native)**, and learning **GraphQL**
 
-💙 &nbsp; Interests: travel ✈️ , reading 📖 , movies 🎬 , running 👟 , personal development 📈
+💙 &nbsp; Interests: travel ✈️ , reading 📖 , movies 🎬 , exercise 🏃 , personal development 📈
 
 ### Find me at
 
