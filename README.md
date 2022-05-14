@@ -27,4 +27,7 @@ I develop full-stack web solutions and mobile apps.
 </p>
 
 <hr />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<hr />
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/RicardoPBarbosa/RicardoPBarbosa/blob/master/devcard.svg" width="400" alt="Ricardo Barbosa's Dev Card"/></a>
