@@ -28,7 +28,7 @@ I develop full-stack web solutions and mobile apps.
 
 <hr />
 
-#### 🛠 These are the tools I work with most frequently (weekly data)
+#### 🛠 These are the languages I work with most frequently (weekly data)
 <!--START_SECTION:waka-->
 
 ```text
