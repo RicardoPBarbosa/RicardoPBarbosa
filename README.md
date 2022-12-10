@@ -37,8 +37,3 @@ Other        53 mins         █░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-<hr />
-
-#### 🤓 My constant desire to learn has made me read this much articles until now
-
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/RicardoPBarbosa/RicardoPBarbosa/blob/master/devcard.svg" width="400" alt="Ricardo Barbosa's Dev Card"/></a>
