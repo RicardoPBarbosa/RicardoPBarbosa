@@ -8,7 +8,7 @@ I develop full-stack web solutions and mobile apps.
 
 💼  &nbsp; You can hire my services through my partnership -> <a href="https://github.com/opodevs">opodevs</a>
 
-🌱 &nbsp; I’m currently improving my skills on: **React (JS, Native)**, and learning **GraphQL**
+🌱 &nbsp; I’m currently improving my skills on: **React (JS, Native)**, and learning **E2E Testing**
 
 💙 &nbsp; Interests: travel ✈️ , reading 📖 , movies 🎬 , exercise 🏃 , personal development 📈
 
