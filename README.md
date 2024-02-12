@@ -32,11 +32,11 @@ I develop full-stack web solutions and mobile apps.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   10 hrs 59 mins  ███████████████████████░░   91.96 %
-Other        32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-JavaScript   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+TypeScript   11 hrs 1 min    ████████████████████░░░░░   79.74 %
+JavaScript   1 hr 53 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
+Other        32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+JSON         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
